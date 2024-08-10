@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3b92b77-3ac8-4532-81bf-190a50473a24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DemoWorkSpace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ConuntForEvenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ConuntForEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/CountDoWhileEvenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/CountDoWhileEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/CountDoWhileOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/CountDoWhileOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/CountWhileEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWHilePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWHilePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile11TableNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile11TableNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile15TableNumberReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile15TableNumberReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile8TableNumberReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile8TableNumberRevese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhile8TableNumberRevese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileCubeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileCubeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileDivisableBy10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileDivisableBy10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileEvenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileSquareNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileSquareNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileSumNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/DoWhileSumNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/EvenNumberDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/EvenNumberDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For11TableNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For11TableNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For15TableNumberReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For15TableNumberReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For8TableNumberReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For8TableNumberReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForCountOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForCountOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForCubeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForCubeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForDivisibleBy10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForDivisibleBy10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForEvenLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForEvenLoopDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForLoopDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForSquareNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForSquareNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForSumOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForSumOfNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForSumOfOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForSumOfOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While11TableNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While11TableNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While15TableNumberReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While15TableNumberReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While8TableNumberReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While8TableNumberReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileCountEvenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileCountEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileCountOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileCountOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileCubeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileCubeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileDivisableBy10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileDivisableBy10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileEvenNumberDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileEvenNumberDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoopDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoopPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileLoopPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileSquareNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileSquareNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileSumOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/WhileSumOfNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Whilepattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Whilepattern1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2kSpAjbmorjRoil3nZAFO1cxq8l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b92b77-3ac8-4532-81bf-190a50473a24" name="Changes" comment="" />
+      <created>1723286693449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723286693449</updated>
+    </task>
+    <servers />
+  </component>
+</project>
